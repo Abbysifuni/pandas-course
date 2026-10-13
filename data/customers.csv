@@ -1,0 +1,301 @@
+customer_id,name,city,signup_date,segment
+C0001,Salim Mwakyusa,Mwanza,2025-04-18,Small Business
+C0002,Asha Mbwambo,Dar es Salaam,2024-11-14,Individual
+C0003,Hassan Massawe,Dar es Salaam,2024-04-11,Student
+C0004,Baraka Ally,Arusha,2025-03-30,Individual
+C0005,Halima Ally,Dar es Salaam,2024-11-05,Individual
+C0006,Upendo Juma,Dar es Salaam,2024-10-31,Individual
+C0007,Fatuma Lyimo,Arusha,2025-05-23,Small Business
+C0008,Fatuma Mwakyusa,Dar es Salaam,2024-08-31,Small Business
+C0009,Salim Mbwambo,Arusha,2024-01-26,Student
+C0010,Baraka Kimaro,Dar es Salaam,2025-05-01,Small Business
+C0011,Juma Lyimo,Dar es Salaam,2024-05-03,Student
+C0012,Fatuma Lyimo,Mwanza,2024-11-01,Student
+C0013,Daudi Mbwambo,Arusha,2024-09-15,Individual
+C0014,Halima Juma,Dodoma,2025-06-27,Small Business
+C0015,Neema Nyerere,Dodoma,2024-01-13,Student
+C0016,Halima Swai,Dar es Salaam,2024-05-23,Individual
+C0017,John Massawe,Dar es Salaam,2024-08-15,Individual
+C0018,Peter Ally,Arusha,2024-12-25,Student
+C0019,Juma Kimaro,Dar es Salaam,2024-05-10,Individual
+C0020,Neema Kimaro,Dar es Salaam,2025-01-15,Individual
+C0021,Salim Nyerere,Mwanza,2024-04-15,Student
+C0022,Baraka Massawe,Mwanza,2025-06-28,Small Business
+C0023,Daudi Mbwambo,Dar es Salaam,2025-07-15,Small Business
+C0024,Upendo Mushi,Mwanza,2024-02-25,Individual
+C0025,Peter Massawe,Arusha,2024-12-31,Individual
+C0026,Kelvin Ally,Mwanza,2025-04-28,Individual
+C0027,Juma Mwakyusa,Dar es Salaam,2024-07-30,Small Business
+C0028,Peter Nyerere,Arusha,2025-02-14,Individual
+C0029,Zawadi Massawe,Dodoma,2025-04-25,Small Business
+C0030,John Kimaro,Mwanza,2025-05-31,Student
+C0031,Kelvin Kimaro,Dar es Salaam,2024-12-15,Small Business
+C0032,Agnes Swai,Dodoma,2024-12-31,Small Business
+C0033,Kelvin Juma,Dar es Salaam,2024-03-26,Small Business
+C0034,Grace Mbwambo,Mwanza,2024-09-29,Individual
+C0035,Rehema Ally,Mwanza,2025-03-10,Individual
+C0036,Peter Lyimo,Dar es Salaam,2025-04-22,Small Business
+C0037,Emmanuel Nyerere,Mwanza,2024-07-27,Small Business
+C0038,Musa Massawe,Arusha,2024-06-19,Student
+C0039,Mariam Lyimo,Dodoma,2025-03-03,Individual
+C0040,Asha Ally,Dodoma,2024-02-03,Individual
+C0041,Mariam Mbwambo,Dodoma,2024-05-08,Individual
+C0042,Mariam Ally,Dodoma,2025-03-25,Individual
+C0043,Baraka Kimaro,Dar es Salaam,2025-02-08,Individual
+C0044,Neema Juma,Arusha,2025-05-02,Individual
+C0045,Mariam Kimaro,Mwanza,2025-04-09,Student
+C0046,Grace Massawe,Arusha,2025-05-12,Small Business
+C0047,Peter Nyerere,Arusha,2024-07-12,Individual
+C0048,Halima Mwakyusa,Dar es Salaam,2024-09-25,Small Business
+C0049,Juma Juma,Dar es Salaam,2024-12-30,Individual
+C0050,Kelvin Nyerere,Mwanza,2025-03-15,Individual
+C0051,Peter Mbwambo,Dar es Salaam,2024-08-14,Small Business
+C0052,Asha Ally,Mwanza,2025-03-04,Small Business
+C0053,Hassan Massawe,Dar es Salaam,2024-04-17,Small Business
+C0054,Fatuma Massawe,Dar es Salaam,2024-06-22,Individual
+C0055,Salim Massawe,Dar es Salaam,2025-02-05,Individual
+C0056,Asha Mbwambo,Mwanza,2025-04-04,Individual
+C0057,Emmanuel Nyerere,Dar es Salaam,2024-02-15,Small Business
+C0058,Agnes Massawe,Arusha,2025-08-01,Small Business
+C0059,Emmanuel Mushi,Dar es Salaam,2025-04-18,Student
+C0060,Asha Juma,Arusha,2024-07-30,Student
+C0061,Salim Nyerere,Mwanza,2025-01-26,Individual
+C0062,Emmanuel Ally,Dar es Salaam,2024-06-13,Small Business
+C0063,Fatuma Massawe,Mwanza,2024-03-08,Student
+C0064,Zawadi Mushi,Mwanza,2024-12-16,Individual
+C0065,Juma Lyimo,Dodoma,2025-06-21,Individual
+C0066,Mariam Lyimo,Dar es Salaam,2025-06-10,Individual
+C0067,Hassan Mushi,Dodoma,2024-02-17,Small Business
+C0068,Daudi Ally,Dar es Salaam,2024-12-30,Small Business
+C0069,Fatuma Juma,Dodoma,2024-02-14,Individual
+C0070,Fatuma Ally,Dar es Salaam,2025-08-05,Student
+C0071,Hassan Nyerere,Dar es Salaam,2024-09-04,Individual
+C0072,Halima Massawe,Dar es Salaam,2025-07-07,Small Business
+C0073,Juma Juma,Mwanza,2024-11-02,Individual
+C0074,Grace Lyimo,Arusha,2025-03-02,Small Business
+C0075,Agnes Swai,Dodoma,2024-01-10,Individual
+C0076,Kelvin Mbwambo,Dar es Salaam,2025-02-28,Individual
+C0077,Daudi Mwakyusa,Dodoma,2024-12-24,Individual
+C0078,Neema Lyimo,Dar es Salaam,2024-04-16,Small Business
+C0079,Daudi Mushi,Dar es Salaam,2024-09-26,Student
+C0080,Asha Kimaro,Mwanza,2024-07-23,Individual
+C0081,Kelvin Kimaro,Dar es Salaam,2024-01-19,Student
+C0082,Neema Mbwambo,Arusha,2025-05-01,Individual
+C0083,Baraka Massawe,Arusha,2025-02-09,Individual
+C0084,Baraka Mushi,Dar es Salaam,2024-08-28,Individual
+C0085,Hassan Mushi,Dar es Salaam,2024-07-02,Individual
+C0086,Salim Mbwambo,Dar es Salaam,2024-05-16,Individual
+C0087,Agnes Massawe,Dar es Salaam,2025-04-01,Student
+C0088,Musa Mbwambo,Dodoma,2024-02-07,Individual
+C0089,Peter Nyerere,Arusha,2024-11-04,Small Business
+C0090,Musa Swai,Dar es Salaam,2024-05-13,Small Business
+C0091,Zawadi Lyimo,Mwanza,2024-02-16,Individual
+C0092,Juma Mwakyusa,Dar es Salaam,2024-12-12,Individual
+C0093,Daudi Lyimo,Arusha,2024-06-16,Individual
+C0094,Rehema Juma,Dar es Salaam,2025-07-08,Individual
+C0095,Musa Mbwambo,Arusha,2025-03-01,Small Business
+C0096,Baraka Mbwambo,Mwanza,2024-08-22,Student
+C0097,Baraka Nyerere,Dar es Salaam,2025-08-14,Individual
+C0098,Emmanuel Lyimo,Mwanza,2025-04-18,Individual
+C0099,Kelvin Kimaro,Arusha,2024-10-25,Small Business
+C0100,Emmanuel Nyerere,Arusha,2024-03-18,Individual
+C0101,Fatuma Swai,Dar es Salaam,2024-02-16,Individual
+C0102,Peter Mwakyusa,Dar es Salaam,2025-05-08,Student
+C0103,Emmanuel Mbwambo,Dar es Salaam,2024-10-09,Individual
+C0104,Neema Massawe,Dar es Salaam,2025-07-10,Individual
+C0105,Neema Juma,Dar es Salaam,2024-10-16,Individual
+C0106,Zawadi Mushi,Mwanza,2024-10-28,Individual
+C0107,Daudi Mbwambo,Dar es Salaam,2025-05-10,Student
+C0108,Musa Swai,Mwanza,2024-09-29,Small Business
+C0109,Hassan Mbwambo,Dar es Salaam,2024-11-07,Individual
+C0110,Agnes Ally,Mwanza,2025-06-28,Individual
+C0111,Asha Mbwambo,Dar es Salaam,2024-05-23,Small Business
+C0112,Halima Ally,Dodoma,2024-05-16,Small Business
+C0113,Musa Mbwambo,Dodoma,2025-07-11,Individual
+C0114,Upendo Mwakyusa,Mwanza,2025-07-06,Individual
+C0115,Peter Kimaro,Dar es Salaam,2025-08-12,Small Business
+C0116,Zawadi Mushi,Dar es Salaam,2025-07-04,Individual
+C0117,Mariam Mushi,Mwanza,2024-01-12,Small Business
+C0118,Agnes Nyerere,Arusha,2025-07-28,Individual
+C0119,Mariam Kimaro,Dar es Salaam,2024-04-03,Individual
+C0120,Agnes Nyerere,Arusha,2025-06-18,Individual
+C0121,Kelvin Mbwambo,Dar es Salaam,2025-02-18,Small Business
+C0122,Kelvin Swai,Arusha,2024-11-11,Small Business
+C0123,Fatuma Ally,Arusha,2024-09-29,Small Business
+C0124,Emmanuel Ally,Mwanza,2025-02-13,Individual
+C0125,Salim Ally,Dar es Salaam,2025-01-26,Individual
+C0126,Baraka Mwakyusa,Dar es Salaam,2024-11-15,Individual
+C0127,Peter Mbwambo,Dar es Salaam,2024-02-18,Individual
+C0128,Daudi Swai,Dar es Salaam,2024-06-30,Small Business
+C0129,Daudi Massawe,Dodoma,2024-04-16,Individual
+C0130,Zawadi Nyerere,Dodoma,2025-08-17,Individual
+C0131,Juma Lyimo,Arusha,2025-05-19,Individual
+C0132,Agnes Mbwambo,Dar es Salaam,2024-01-15,Small Business
+C0133,Grace Juma,Dar es Salaam,2025-01-09,Student
+C0134,Peter Swai,Dodoma,2024-05-30,Small Business
+C0135,Baraka Kimaro,Dar es Salaam,2024-10-30,Individual
+C0136,Peter Mbwambo,Dar es Salaam,2025-07-11,Individual
+C0137,Fatuma Juma,Mwanza,2024-12-19,Individual
+C0138,Agnes Swai,Dar es Salaam,2025-07-25,Individual
+C0139,Agnes Ally,Dar es Salaam,2024-07-13,Small Business
+C0140,John Mbwambo,Dar es Salaam,2024-06-16,Individual
+C0141,Halima Mbwambo,Mwanza,2025-05-19,Individual
+C0142,Grace Massawe,Arusha,2025-08-22,Small Business
+C0143,Neema Mwakyusa,Mwanza,2025-01-27,Individual
+C0144,Asha Ally,Arusha,2025-05-02,Student
+C0145,Hassan Lyimo,Dar es Salaam,2024-08-28,Small Business
+C0146,Rehema Kimaro,Dar es Salaam,2025-04-11,Small Business
+C0147,Asha Mwakyusa,Mwanza,2024-04-16,Student
+C0148,John Ally,Dar es Salaam,2024-12-09,Small Business
+C0149,Halima Mwakyusa,Arusha,2025-03-22,Small Business
+C0150,Emmanuel Kimaro,Arusha,2024-08-24,Small Business
+C0151,Baraka Lyimo,Dodoma,2024-06-14,Small Business
+C0152,Hassan Ally,Dar es Salaam,2024-01-06,Student
+C0153,Asha Nyerere,Dar es Salaam,2024-10-03,Individual
+C0154,Daudi Kimaro,Mwanza,2024-08-07,Individual
+C0155,John Mbwambo,Dar es Salaam,2025-01-30,Individual
+C0156,Neema Mwakyusa,Dar es Salaam,2024-08-12,Student
+C0157,Rehema Juma,Dodoma,2025-03-04,Individual
+C0158,Daudi Massawe,Mwanza,2024-02-18,Student
+C0159,Neema Mwakyusa,Dar es Salaam,2025-08-17,Individual
+C0160,John Juma,Dar es Salaam,2024-02-20,Student
+C0161,Salim Nyerere,Mwanza,2024-08-01,Individual
+C0162,Daudi Massawe,Arusha,2024-06-07,Individual
+C0163,Juma Kimaro,Dodoma,2025-04-23,Small Business
+C0164,Peter Juma,Arusha,2024-10-23,Individual
+C0165,Daudi Ally,Dar es Salaam,2025-03-26,Individual
+C0166,Asha Mushi,Dar es Salaam,2025-04-09,Individual
+C0167,Grace Lyimo,Dar es Salaam,2025-01-23,Individual
+C0168,Musa Mushi,Mwanza,2024-12-19,Student
+C0169,Musa Mwakyusa,Dar es Salaam,2024-11-02,Individual
+C0170,John Massawe,Dar es Salaam,2024-11-20,Small Business
+C0171,Hassan Kimaro,Dar es Salaam,2025-04-10,Individual
+C0172,Juma Ally,Mwanza,2025-04-22,Individual
+C0173,Peter Nyerere,Dar es Salaam,2024-09-30,Student
+C0174,John Lyimo,Dodoma,2025-05-23,Student
+C0175,Asha Lyimo,Dar es Salaam,2024-01-12,Individual
+C0176,Musa Mushi,Mwanza,2024-09-20,Small Business
+C0177,Salim Swai,Mwanza,2025-02-16,Individual
+C0178,Daudi Mwakyusa,Dodoma,2024-12-30,Individual
+C0179,Zawadi Swai,Dar es Salaam,2024-09-01,Individual
+C0180,Agnes Kimaro,Mwanza,2025-07-06,Individual
+C0181,Peter Juma,Dar es Salaam,2024-02-09,Individual
+C0182,Juma Juma,Dar es Salaam,2024-02-17,Small Business
+C0183,Rehema Swai,Dar es Salaam,2024-10-07,Individual
+C0184,Neema Lyimo,Arusha,2024-12-31,Student
+C0185,Fatuma Kimaro,Dar es Salaam,2024-09-03,Individual
+C0186,Upendo Mbwambo,Dodoma,2025-04-10,Small Business
+C0187,Peter Juma,Dar es Salaam,2025-01-21,Individual
+C0188,John Mushi,Arusha,2024-09-13,Small Business
+C0189,Rehema Mbwambo,Mwanza,2024-06-21,Individual
+C0190,Mariam Ally,Dar es Salaam,2025-03-25,Individual
+C0191,Grace Mwakyusa,Arusha,2024-10-21,Small Business
+C0192,Kelvin Nyerere,Arusha,2025-05-19,Student
+C0193,Asha Massawe,Mwanza,2024-05-02,Small Business
+C0194,Fatuma Nyerere,Mwanza,2025-04-03,Individual
+C0195,Grace Mbwambo,Mwanza,2025-02-26,Individual
+C0196,Asha Massawe,Mwanza,2024-11-18,Individual
+C0197,Mariam Lyimo,Arusha,2025-07-24,Individual
+C0198,Musa Mwakyusa,Dar es Salaam,2025-03-10,Individual
+C0199,Salim Kimaro,Dar es Salaam,2025-07-10,Student
+C0200,Kelvin Ally,Dar es Salaam,2025-03-01,Individual
+C0201,Upendo Juma,Dodoma,2024-06-23,Individual
+C0202,Fatuma Mbwambo,Dar es Salaam,2024-08-18,Individual
+C0203,Asha Kimaro,Dodoma,2025-06-15,Individual
+C0204,Salim Juma,Dar es Salaam,2024-01-13,Individual
+C0205,Peter Juma,Dar es Salaam,2025-07-02,Individual
+C0206,John Juma,Dar es Salaam,2025-07-23,Individual
+C0207,Grace Mushi,Dar es Salaam,2025-05-18,Small Business
+C0208,Mariam Kimaro,Dar es Salaam,2024-10-07,Student
+C0209,Salim Swai,Dar es Salaam,2025-02-16,Individual
+C0210,Rehema Swai,Mwanza,2024-06-28,Individual
+C0211,Zawadi Kimaro,Dar es Salaam,2024-04-18,Small Business
+C0212,Daudi Nyerere,Arusha,2024-05-30,Individual
+C0213,Rehema Kimaro,Dodoma,2025-06-20,Individual
+C0214,John Massawe,Dar es Salaam,2024-08-27,Individual
+C0215,John Mushi,Arusha,2025-03-05,Student
+C0216,Baraka Kimaro,Dodoma,2024-12-12,Small Business
+C0217,Hassan Kimaro,Arusha,2025-08-16,Individual
+C0218,Hassan Lyimo,Arusha,2024-11-06,Individual
+C0219,Peter Nyerere,Arusha,2024-09-22,Student
+C0220,Emmanuel Mwakyusa,Dar es Salaam,2024-08-17,Individual
+C0221,Neema Massawe,Mwanza,2025-02-08,Individual
+C0222,Halima Massawe,Dodoma,2024-02-16,Small Business
+C0223,Neema Mbwambo,Dodoma,2025-08-01,Small Business
+C0224,Agnes Nyerere,Arusha,2025-08-11,Individual
+C0225,Salim Massawe,Dar es Salaam,2024-03-01,Individual
+C0226,Mariam Ally,Mwanza,2024-01-10,Individual
+C0227,Grace Nyerere,Dodoma,2025-06-11,Student
+C0228,Neema Lyimo,Dodoma,2025-07-05,Individual
+C0229,Juma Nyerere,Dar es Salaam,2024-10-03,Individual
+C0230,Zawadi Swai,Dodoma,2024-01-20,Small Business
+C0231,Halima Mushi,Mwanza,2024-03-02,Student
+C0232,Asha Kimaro,Dodoma,2024-10-30,Small Business
+C0233,Upendo Swai,Dar es Salaam,2025-07-21,Individual
+C0234,Musa Nyerere,Dodoma,2025-04-16,Individual
+C0235,Halima Massawe,Mwanza,2024-01-18,Individual
+C0236,Grace Ally,Dar es Salaam,2025-02-02,Small Business
+C0237,Peter Kimaro,Arusha,2025-04-30,Individual
+C0238,Fatuma Mbwambo,Dar es Salaam,2025-02-27,Student
+C0239,Fatuma Ally,Mwanza,2024-09-18,Student
+C0240,Hassan Massawe,Arusha,2024-02-28,Small Business
+C0241,Halima Juma,Arusha,2025-03-15,Individual
+C0242,Asha Lyimo,Mwanza,2025-06-02,Student
+C0243,Salim Lyimo,Mwanza,2024-11-23,Small Business
+C0244,Daudi Massawe,Dar es Salaam,2025-01-24,Small Business
+C0245,Grace Mwakyusa,Mwanza,2024-03-01,Individual
+C0246,Hassan Mushi,Arusha,2025-07-19,Small Business
+C0247,Neema Massawe,Dar es Salaam,2024-08-02,Small Business
+C0248,Zawadi Mushi,Dar es Salaam,2025-08-20,Individual
+C0249,Upendo Mwakyusa,Arusha,2024-04-02,Individual
+C0250,Rehema Kimaro,Dodoma,2025-03-28,Individual
+C0251,Grace Lyimo,Dodoma,2025-03-26,Small Business
+C0252,Asha Mwakyusa,Dar es Salaam,2025-04-28,Individual
+C0253,Zawadi Mwakyusa,Dar es Salaam,2024-06-10,Small Business
+C0254,Asha Lyimo,Mwanza,2025-07-30,Individual
+C0255,Rehema Mbwambo,Arusha,2024-09-03,Small Business
+C0256,Salim Juma,Dodoma,2025-03-07,Individual
+C0257,Asha Ally,Arusha,2024-02-19,Student
+C0258,Baraka Lyimo,Dar es Salaam,2025-01-02,Individual
+C0259,Peter Lyimo,Arusha,2024-06-02,Small Business
+C0260,Mariam Nyerere,Arusha,2024-11-12,Individual
+C0261,Baraka Lyimo,Dodoma,2025-03-18,Small Business
+C0262,Salim Nyerere,Dar es Salaam,2024-11-09,Individual
+C0263,Rehema Massawe,Dar es Salaam,2024-02-12,Individual
+C0264,Mariam Juma,Mwanza,2025-01-18,Student
+C0265,Daudi Mbwambo,Dar es Salaam,2024-08-03,Individual
+C0266,Upendo Kimaro,Arusha,2025-01-09,Individual
+C0267,Emmanuel Nyerere,Dodoma,2025-02-15,Small Business
+C0268,Rehema Mushi,Mwanza,2024-01-01,Individual
+C0269,Salim Swai,Mwanza,2024-06-16,Small Business
+C0270,Baraka Nyerere,Dodoma,2024-03-30,Student
+C0271,Baraka Mushi,Mwanza,2025-02-18,Individual
+C0272,Baraka Lyimo,Dodoma,2024-09-07,Small Business
+C0273,Grace Lyimo,Arusha,2024-02-29,Individual
+C0274,Emmanuel Juma,Arusha,2024-06-21,Individual
+C0275,Neema Massawe,Dar es Salaam,2025-07-27,Individual
+C0276,Musa Nyerere,Dar es Salaam,2025-02-08,Individual
+C0277,Neema Mushi,Arusha,2024-08-24,Small Business
+C0278,Halima Mwakyusa,Dar es Salaam,2025-08-17,Individual
+C0279,Agnes Ally,Dar es Salaam,2025-02-08,Student
+C0280,Agnes Massawe,Mwanza,2024-06-08,Small Business
+C0281,Mariam Juma,Mwanza,2024-04-05,Individual
+C0282,Salim Mwakyusa,Dar es Salaam,2025-05-01,Small Business
+C0283,Mariam Mwakyusa,Dar es Salaam,2024-07-04,Individual
+C0284,Fatuma Mbwambo,Arusha,2024-08-10,Small Business
+C0285,Neema Swai,Dar es Salaam,2024-05-31,Small Business
+C0286,Kelvin Swai,Arusha,2025-03-10,Small Business
+C0287,Upendo Juma,Dar es Salaam,2024-03-28,Individual
+C0288,Daudi Lyimo,Dodoma,2024-02-23,Individual
+C0289,Zawadi Nyerere,Dar es Salaam,2024-12-17,Small Business
+C0290,Fatuma Juma,Dar es Salaam,2025-01-09,Individual
+C0291,Zawadi Massawe,Dar es Salaam,2025-01-17,Student
+C0292,Peter Ally,Arusha,2024-11-08,Individual
+C0293,Zawadi Lyimo,Dodoma,2024-05-28,Individual
+C0294,Rehema Massawe,Dar es Salaam,2025-05-12,Small Business
+C0295,Neema Juma,Dar es Salaam,2025-08-11,Student
+C0296,Upendo Massawe,Dar es Salaam,2024-03-12,Individual
+C0297,Baraka Mwakyusa,Mwanza,2024-07-03,Individual
+C0298,Daudi Mwakyusa,Dar es Salaam,2024-11-09,Individual
+C0299,Rehema Nyerere,Dodoma,2024-09-07,Student
+C0300,Musa Juma,Dar es Salaam,2025-06-02,Student

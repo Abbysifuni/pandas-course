@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_price,unit_cost
+P001,Wireless Mouse,Accessories,25000,14000
+P002,USB-C Charger 65W,Accessories,45000,26000
+P003,Bluetooth Earbuds,Audio,85000,48000
+P004,Over-ear Headphones,Audio,160000,95000
+P005,32GB Flash Drive,Storage,18000,9000
+P006,1TB External SSD,Storage,240000,165000
+P007,Laptop Backpack,Accessories,70000,38000
+P008,Smartphone 128GB,Phones,650000,520000
+P009,Feature Phone,Phones,65000,45000
+P010,"10,000mAh Power Bank",Accessories,55000,30000
+P011,Wi-Fi Router,Networking,130000,85000
+P012,HDMI Cable 2m,Accessories,12000,5000

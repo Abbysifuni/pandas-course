@@ -1,0 +1,413 @@
+order_id,order_date,customer_id,product_id,quantity,branch,channel,payment_method,unit_price,discount_pct
+O00147,2025-01-31,C0184,P002,2.0,Kariakoo,Online,Mobile Money,45000,0
+O00392,2025-03-26,C0024,P002,2.0,Arusha CBD,In-store,Cash,45000,0
+O00304,2025-03-08,C0103,P006,2.0,Kariakoo,Online,Mobile Money,"TSh 240,000",10
+O00103,2025-01-22,C0260,P001,2.0,Mwanza Rock City,In-store,Cash,"TSh 25,000",0
+O00194,2025-02-09,C0207,P010,1.0,Mlimani City,In-store,Cash,55000,0
+O00016,2025-01-05,C0200,P003,2.0,Mlimani City,Online,Mobile Money,85000,10
+O00255,2025-02-24,C0167,P005,1.0,Mlimani City,Online,Mobile Money,18000,0
+O00305,2025-03-08,,P012,,Mlimani City,In-store,Card,12000,15
+O00017,2025-01-05,C0128,P012,3.0,KARIAKOO,In-store,Mobile Money,"TSh 12,000",0
+O00331,2025-03-14,C0300,P001,,Mlimani City,Online,Cash,25000,15
+O00377,2025-03-22,C0055,P012,4.0,Kariakoo,In-store,Mobile Money,12000,10
+O00089,2025-01-18,C0033,P005,3.0,Mwanza Rock City,In-store,Cash,18000,10
+O00062,2025-01-13,C0205,P010,1.0,mwanza rock city,In-store,Cash,55000,15
+O00271,2025-02-28,C0114,P011,1.0,Mwanza Rock City,In-store,Mobile Money,130000,5
+O00156,2025-02-01,C0075,P003,1.0,kariakoo,Online,Mobile Money,85000,10
+O00115,2025-01-25,C0005,P005,3.0,Mlimani City,In-store,Mobile Money,18000,0
+O00357,2025-03-19,C0208,P008,2.0,Kariakoo,Online,Mobile Money,"650,000",5
+O00239,2025-02-19,C0091,P002,2.0,Kariakoo,In-store,Mobile Money,45000,0
+O00285,2025-03-04,C0130,P005,4.0,Kariakoo,In-store,Cash,18000,5
+O00391,2025-03-26,C0136,P010,1.0,Mwanza Rock City,In-store,Mobile Money,55000,15
+O00102,2025-01-22,C0004,P006,1.0,Mlimani City,In-store,Mobile Money,240000,10
+O00295,2025-03-05,C0246,P001,3.0,Arusha CBD,In-store,Mobile Money,"25,000",0
+O00192,2025-02-09,C0267,P011,1.0,Kariakoo,Online,Mobile Money,130000,0
+O00084,2025-01-18,C0297,P005,5.0,Arusha CBD,Online,Cash,18000,5
+O00106,2025-01-23,C0173,P001,3.0,Kariakoo,Online,Cash,25000,5
+O00269,2025-02-28,C0259,P002,2.0,Mwanza Rock City,In-store,Cash,45000,5
+O00154,2025-02-01,C0287,P010,2.0,Mwanza Rock City,In-store,Mobile Money,55000,15
+O00128,2025-01-27,C0169,P009,2.0,Kariakoo,In-store,Mobile Money,65000,0
+O00275,2025-03-01,C0220,P005,1.0,MWANZA ROCK CITY,In-store,Card,18000,5
+O00127,2025-01-27,C0248,P010,2.0,Kariakoo,In-store,Mobile Money,55000,0
+O00325,2025-03-12,C0082,P003,2.0,  Mwanza Rock City ,In-store,Mobile Money,85000,0
+O00197,2025-02-10,C0092,P011,2.0,Arusha CBD,Online,Mobile Money,130000,10
+O00133,2025-01-28,C0086,P007,1.0,MLIMANI CITY,In-store,Mobile Money,70000,0
+O00074,2025-01-15,C0002,P010,2.0,Mwanza Rock City,In-store,Card,55000,0
+O00143,30/01/2025,C0196,P001,4.0,Mwanza Rock City,Online,Mobile Money,25000,0
+O00191,2025-02-08,C0177,P010,,KARIAKOO,In-store,Card,"TSh 55,000",0
+O00252,2025-02-24,C0225,P001,1.0,Mlimani City,In-store,Mobile Money,25000,5
+O00124,2025-01-27,C0057,P010,1.0,Arusha CBD,In-store,Cash,55000,0
+O00117,2025-01-25,C0142,P006,1.0,Kariakoo,In-store,Mobile Money,240000,0
+O00057,2025-01-12,C0203,P003,2.0,Arusha CBD,In-store,Mobile Money,"85,000",5
+O00068,2025-01-14,C0048,P009,2.0,KARIAKOO,In-store,Mobile Money,65000,0
+O00372,2025-03-22,C0001,P009,2.0,Kariakoo,In-store,Mobile Money,65000,0
+O00394,2025-03-27,C0175,P010,,Kariakoo,In-store,Mobile Money,55000,15
+O00306,2025-03-09,C0225,P001,5.0,Mlimani City,In-store,Mobile Money,25000,15
+O00129,2025-01-27,C0005,P007,2.0,Kariakoo,In-store,Mobile Money,70000,15
+O00335,2025-03-15,C0090,P003,2.0,Mlimani City,Online,Mobile Money,85000,5
+O00025,2025-01-07,C0069,P009,2.0,mlimani city,Online,Cash,65000,5
+O00349,2025-03-18,C0193,P002,2.0,Mlimani City,Online,Cash,45000,0
+O00041,2025-01-10,C0002,P010,1.0,Mlimani City,In-store,Mobile Money,55000,0
+O00234,2025-02-17,C0018,P008,1.0,Mlimani City,Online,Cash,650000,10
+O00028,2025-01-07,C0018,P004,2.0,Mwanza Rock City,Online,Mobile Money,160000,0
+O00032,2025-01-08,C0271,P001,1.0,Mlimani  City,In-store,Mobile Money,25000,15
+O00334,2025-03-14,C0069,P007,1.0,Kariakoo,In-store,,70000,10
+O00307,2025-03-09,C0146,P002,1.0,Mlimani City,In-store,Mobile Money,45000,0
+O00099,2025-01-22,C0195,P004,2.0,Mlimani City,Online,Mobile Money,160000,0
+O00248,23/02/2025,C0115,P008,1.0,Kariakoo,In-store,Card,"650,000",0
+O00376,2025-03-22,C0176,P003,1.0,Mlimani City,Online,Cash,85000,0
+O00266,2025-02-28,C0298,P011,2.0,Mwanza Rock City,In-store,Mobile Money,130000,15
+O00237,2025-02-18,C0030,P005,2.0,Arusha CBD,In-store,Cash,18000,0
+O00283,2025-03-03,C0123,P005,1.0,Mwanza Rock City,In-store,Mobile Money,18000,0
+O00289,2025-03-04,C0115,P002,1.0,Kariakoo,In-store,Mobile Money,45000,0
+O00067,2025-01-14,C0272,P012,2.0,Kariakoo,In-store,Mobile Money,12000,5
+O00373,2025-03-22,C0240,P009,2.0,Arusha CBD,In-store,Mobile Money,65000,5
+O00300,2025-03-07,C0028,P006,1.0,Arusha CBD,Online,Mobile Money,240000,0
+O00038,2025-01-09,C0087,P003,,Kariakoo,In-store,Cash,85000,15
+O00371,2025-03-22,C0186,P003,2.0,Arusha CBD,In-store,Mobile Money,85000,0
+O00104,2025-01-22,C0075,P001,3.0,Mwanza Rock City,In-store,Mobile Money,"TSh 25,000",15
+O00165,2025-02-03,C0260,P005,5.0,Mlimani City,Online,Mobile Money,18000,0
+O00264,2025-02-27,C0249,P005,5.0,Kariakoo,In-store,Mobile Money,"TSh 18,000",0
+O00314,10/03/2025,C0181,P008,1.0,Kariakoo,In-store,Cash,"650,000",0
+O00162,2025-02-02,C0267,P005,4.0,Kariakoo,In-store,Mobile Money,18000,10
+O00279,2025-03-03,C0296,P003,1.0,Mwanza Rock City,In-store,Mobile Money,85000,0
+O00240,2025-02-19,C0093,P012,1.0,Mlimani  City,In-store,Mobile Money,12000,5
+O00082,2025-01-17,C0085,P005,5.0,Kariakoo,In-store,Card,18000,0
+O00369,2025-03-21,C0281,P002,1.0,Kariakoo,Online,Card,45000,5
+O00125,2025-01-27,C0008,P006,1.0,  Arusha CBD ,In-store,Cash,240000,5
+O00345,2025-03-17,C0197,P003,1.0,Kariakoo,In-store,,85000,0
+O00056,2025-01-12,C0231,P001,2.0,  Mlimani City ,In-store,,25000,0
+O00280,2025-03-03,C0209,P001,5.0,Arusha CBD,In-store,Mobile Money,25000,10
+O00113,25/01/2025,C0239,P003,2.0,Mwanza Rock City,In-store,Mobile Money,85000,0
+O00262,2025-02-26,C0172,P002,1.0,Mlimani City,In-store,Mobile Money,45000,0
+O00346,2025-03-17,C0206,P007,2.0,Kariakoo,In-store,Cash,70000,5
+O00231,17/02/2025,C0125,P001,3.0,Kariakoo,In-store,Mobile Money,"TSh 25,000",15
+O00158,2025-02-01,C0208,P012,4.0,Mwanza Rock City,In-store,Cash,12000,0
+O00167,2025-02-03,C0094,P001,3.0,Arusha CBD,Online,Card,"25,000",0
+O00210,2025-02-12,C0210,P002,,Mlimani City,In-store,Mobile Money,45000,0
+O00396,2025-03-28,C0222,P005,3.0,Kariakoo,In-store,Mobile Money,18000,10
+O00232,2025-02-17,C0168,P009,2.0,Kariakoo,Online,Mobile Money,65000,15
+O00358,2025-03-19,C0251,P006,1.0,Kariakoo,In-store,Mobile Money,240000,0
+O00274,2025-03-01,,P012,1.0,Mlimani  City,In-store,Cash,12000,5
+O00382,2025-03-25,C0090,P012,4.0,Mlimani City,In-store,Mobile Money,12000,0
+O00198,2025-02-10,C0233,P008,1.0,Mlimani City,Online,Cash,650000,15
+O00108,2025-01-23,C0076,P012,5.0,Kariakoo,In-store,Mobile Money,12000,0
+O00083,2025-01-18,C0253,P001,4.0,  Mlimani City ,Online,Card,25000,0
+O00054,2025-01-12,C0135,P012,1.0,Kariakoo,Online,Mobile Money,12000,0
+O00085,2025-01-18,C0248,P005,5.0,Mlimani City,In-store,Mobile Money,18000,0
+O00360,2025-03-19,C0194,P001,5.0,Kariakoo,In-store,Mobile Money,25000,5
+O00052,2025-01-12,C0056,P005,2.0,Kariakoo,In-store,Cash,18000,0
+O00011,2025-01-04,C0276,P005,3.0,  Mlimani City ,In-store,Mobile Money,18000,10
+O00356,19/03/2025,C0004,P007,2.0,Kariakoo,In-store,Mobile Money,70000,15
+O00137,2025-01-29,C0046,P004,1.0,Kariakoo,Online,Card,"TSh 160,000",10
+O00075,2025-01-15,C0072,P012,3.0,Mlimani City,In-store,Mobile Money,"TSh 12,000",5
+O00211,2025-02-12,C0165,P009,,Mlimani City,In-store,Card,65000,0
+O00195,2025-02-10,C0211,P001,5.0,Mlimani City,In-store,Cash,"25,000",0
+O00281,03/03/2025,C0289,P011,2.0,Mlimani City,In-store,Mobile Money,130000,0
+O00261,2025-02-26,C0115,P008,2.0,Mlimani City,Online,Cash,"650,000",0
+O00024,2025-01-06,C0092,P009,2.0,Arusha CBD,In-store,Card,65000,0
+O00241,2025-02-19,C0160,P002,1.0,Mwanza Rock City,In-store,Mobile Money,45000,5
+O00135,2025-01-29,C0126,P008,1.0,Arusha CBD,Online,Cash,650000,15
+O00145,2025-01-30,C0070,P001,2.0,Mlimani City,In-store,Mobile Money,25000,10
+O00112,2025-01-24,C0044,P007,2.0,Arusha CBD,Online,Card,70000,0
+O00330,2025-03-13,C0125,P002,2.0,Mlimani City,In-store,Mobile Money,45000,15
+O00249,2025-02-23,C0173,P001,5.0,Arusha CBD,Online,Mobile Money,25000,0
+O00060,2025-01-13,C0239,P002,1.0,Kariakoo,In-store,Mobile Money,45000,0
+O00051,12/01/2025,C0058,P003,2.0,Mlimani City,Online,Cash,85000,0
+O00039,2025-01-09,C0265,P007,1.0,Mlimani City,In-store,Cash,"70,000",15
+O00138,30/01/2025,C0289,P011,1.0,Mlimani City,In-store,Cash,130000,0
+O00355,19/03/2025,C0214,P007,1.0,Arusha  CBD,Online,Cash,70000,0
+O00155,2025-02-01,C0055,P008,1.0,Arusha CBD,In-store,Mobile Money,650000,0
+O00081,2025-01-17,C0255,P007,1.0,Kariakoo,In-store,Mobile Money,70000,15
+O00225,2025-02-16,C0148,P001,2.0,Arusha CBD,Online,Mobile Money,25000,0
+O00131,2025-01-27,C0183,P005,5.0,Kariakoo,In-store,Mobile Money,18000,0
+O00322,2025-03-12,C0237,P010,1.0,Kariakoo,Online,Mobile Money,55000,0
+O00006,2025-01-02,C0250,P010,2.0,Kariakoo,In-store,Mobile Money,55000,15
+O00076,2025-01-16,C0102,P011,2.0,Mwanza Rock City,In-store,Mobile Money,130000,0
+O00015,2025-01-05,C0279,P002,1.0,Mwanza Rock City,In-store,Cash,45000,10
+O00315,2025-03-10,C0136,P011,1.0,Mwanza Rock City,Online,Cash,"TSh 130,000",0
+O00048,2025-01-11,C0203,P005,5.0,Mlimani City,Online,,18000,0
+O00047,2025-01-11,C0068,P012,4.0,Mlimani City,In-store,Mobile Money,12000,5
+O00071,2025-01-15,C0055,P007,1.0,Mlimani City,In-store,Cash,70000,5
+O00080,17/01/2025,C0251,P012,1.0,KARIAKOO,In-store,Cash,12000,5
+O00031,2025-01-08,C0037,P003,2.0,Mlimani City,In-store,Mobile Money,85000,0
+O00228,2025-02-17,C0067,P001,2.0,Arusha CBD,Online,Card,25000,0
+O00212,2025-02-13,C0092,P002,2.0,Mlimani City,In-store,Mobile Money,45000,15
+O00379,2025-03-23,C0293,P007,2.0,Arusha CBD,In-store,Card,70000,0
+O00116,2025-01-25,C0019,P005,3.0,Kariakoo,In-store,Mobile Money,18000,15
+O00026,2025-01-07,C0100,P008,2.0,Kariakoo,In-store,Cash,650000,15
+O00066,2025-01-14,C0167,P001,4.0,Mlimani City,In-store,Mobile Money,25000,0
+O00196,2025-02-10,C0201,P001,5.0,kariakoo,Online,Cash,"TSh 25,000",15
+O00333,2025-03-14,C0038,P001,3.0,Arusha CBD,Online,Cash,25000,0
+O00215,15/02/2025,C0242,P012,2.0,arusha cbd,Online,Cash,12000,0
+O00189,2025-02-08,C0202,P001,,Kariakoo,In-store,Mobile Money,25000,0
+O00399,2025-03-28,C0264,P012,1.0,Mwanza Rock City,In-store,Mobile Money,12000,0
+O00069,15/01/2025,C0048,P001,3.0,Arusha CBD,Online,Card,25000,0
+O00121,2025-01-26,C0058,P009,2.0,Mlimani City,Online,Cash,65000,5
+O00078,17/01/2025,C0235,P011,1.0,Kariakoo,Online,Mobile Money,130000,0
+O00263,2025-02-27,C0020,P003,2.0,Mlimani City,In-store,Mobile Money,85000,0
+O00340,2025-03-15,C0207,P011,2.0,Mwanza Rock City,In-store,Card,130000,10
+O00059,2025-01-13,C0071,P009,1.0,Mwanza Rock City,Online,Mobile Money,65000,0
+O00126,2025-01-27,C0239,P004,,Mlimani City,In-store,Card,160000,5
+O00043,2025-01-11,C0017,P010,1.0,Kariakoo,Online,Mobile Money,55000,0
+O00005,2025-01-02,C0274,P012,5.0,Kariakoo,In-store,Cash,12000,0
+O00122,2025-01-26,C0254,P001,2.0,Kariakoo,In-store,Cash,25000,5
+O00187,2025-02-08,C0253,P001,3.0,Mlimani City,In-store,Mobile Money,25000,10
+O00160,02/02/2025,C0114,P012,2.0,Mlimani City,Online,Mobile Money,"12,000",0
+O00327,2025-03-13,C0215,P010,1.0,Arusha CBD,Online,Mobile Money,55000,0
+O00267,2025-02-28,C0295,P008,1.0,Mlimani City,In-store,Mobile Money,650000,0
+O00110,2025-01-23,C0202,P002,2.0,Arusha CBD,In-store,Card,45000,15
+O00119,26/01/2025,C0235,P003,1.0,Kariakoo,In-store,,85000,10
+O00251,24/02/2025,C0068,P006,1.0,Kariakoo,In-store,Mobile Money,240000,0
+O00190,2025-02-08,C0257,P012,2.0,Arusha CBD,In-store,Mobile Money,12000,0
+O00007,2025-01-02,C0076,P012,3.0,Kariakoo,In-store,Cash,12000,0
+O00297,2025-03-06,C0046,P001,4.0,Mlimani City,In-store,Mobile Money,25000,0
+O00244,2025-02-21,C0035,P012,3.0,Mlimani City,Online,Cash,12000,0
+O00205,2025-02-12,C0148,P001,3.0,Mwanza Rock City,In-store,Mobile Money,25000,0
+O00320,2025-03-12,C0090,P012,1.0,Kariakoo,In-store,,12000,0
+O00180,2025-02-06,C0145,P007,1.0,Mlimani City,Online,Cash,"70,000",15
+O00226,2025-02-16,C0236,P001,2.0,Kariakoo,In-store,Mobile Money,25000,15
+O00238,2025-02-18,C0236,P001,4.0,Kariakoo,In-store,Cash,25000,10
+O00202,2025-02-11,C0247,P001,3.0,Mlimani City,In-store,Mobile Money,25000,5
+O00365,2025-03-20,C0169,P003,1.0,Kariakoo,In-store,Mobile Money,85000,0
+O00004,02/01/2025,C0047,P002,1.0,Kariakoo,Online,Mobile Money,45000,0
+O00186,2025-02-08,C0003,P008,2.0,Mlimani City,In-store,Cash,650000,0
+O00123,2025-01-26,C0148,P004,,Kariakoo,In-store,Mobile Money,160000,10
+O00079,2025-01-17,C0037,P012,3.0,Kariakoo,In-store,Mobile Money,12000,0
+O00328,13/03/2025,C0191,P012,1.0,Kariakoo,In-store,Mobile Money,"TSh 12,000",5
+O00065,2025-01-14,C0201,P012,1.0,Kariakoo,Online,Mobile Money,12000,0
+O00019,2025-01-05,C0244,P012,3.0,  Mlimani City ,In-store,Cash,12000,10
+O00287,2025-03-04,C0173,P010,,Arusha CBD,In-store,Mobile Money,55000,5
+O00152,2025-01-31,C0253,P003,2.0,Mlimani City,In-store,Card,85000,10
+O00266,2025-02-28,C0298,P011,2.0,Mwanza Rock City,In-store,Mobile Money,130000,15
+O00044,2025-01-11,C0295,P005,1.0,Mlimani City,In-store,Mobile Money,18000,0
+O00181,2025-02-06,C0281,P012,5.0,Mlimani City,Online,Mobile Money,12000,10
+O00292,2025-03-04,C0214,P002,1.0,  Mwanza Rock City ,In-store,Card,45000,0
+O00164,2025-02-03,C0095,P003,1.0,Mlimani City,In-store,Mobile Money,"TSh 85,000",0
+O00354,2025-03-18,C0164,P001,2.0,Arusha CBD,In-store,Mobile Money,"TSh 25,000",5
+O00141,2025-01-30,C0275,P005,2.0,Arusha CBD,Online,Mobile Money,18000,15
+O00379,2025-03-23,C0293,P007,2.0,Arusha CBD,In-store,Card,70000,0
+O00390,2025-03-26,C0263,P003,1.0,  Arusha CBD ,In-store,,85000,5
+O00027,2025-01-07,C0209,P006,1.0,KARIAKOO,In-store,Cash,240000,0
+O00282,2025-03-03,C0095,P005,1.0,Arusha CBD,In-store,Card,18000,0
+O00308,2025-03-09,C0116,P011,2.0,Mlimani City,Online,Cash,130000,5
+O00293,2025-03-05,C0073,P001,2.0,Arusha CBD,Online,Mobile Money,25000,5
+O00169,04/02/2025,C0072,P006,1.0,Kariakoo,In-store,Mobile Money,240000,15
+O00341,2025-03-15,C0007,P006,1.0,Mwanza Rock City,Online,Mobile Money,240000,0
+O00046,2025-01-11,C0232,P007,2.0,Kariakoo,In-store,Mobile Money,70000,0
+O00318,2025-03-11,C0010,P009,2.0,Mlimani City,In-store,,65000,10
+O00144,2025-01-30,C0177,P001,2.0,Mlimani City,In-store,Mobile Money,25000,0
+O00229,2025-02-17,C0296,P001,4.0,Arusha CBD,Online,Mobile Money,25000,5
+O00256,2025-02-24,C0194,P002,2.0,Kariakoo,In-store,Cash,45000,0
+O00219,2025-02-15,C0139,P003,2.0,Arusha  CBD,In-store,Mobile Money,85000,0
+O00022,06/01/2025,C0217,P002,2.0,Kariakoo,In-store,Mobile Money,45000,0
+O00273,2025-02-28,C0264,P009,1.0,Mwanza Rock City,Online,Mobile Money,65000,0
+O00109,2025-01-23,C0146,P007,2.0,Kariakoo,Online,Mobile Money,70000,0
+O00178,2025-02-06,C0142,P012,1.0,Mlimani City,Online,Mobile Money,12000,0
+O00058,2025-01-12,C0020,P002,1.0,Mlimani City,In-store,Cash,45000,15
+O00375,22/03/2025,C0142,P002,1.0,Mlimani City,In-store,Cash,"TSh 45,000",15
+O00204,2025-02-12,C0168,P010,2.0,Kariakoo,Online,Cash,55000,5
+O00291,2025-03-04,C0138,P008,1.0,Kariakoo,In-store,Card,"650,000",0
+O00272,2025-02-28,C0288,P001,,Kariakoo,In-store,Mobile Money,"25,000",0
+O00383,2025-03-25,C0093,P012,2.0,Kariakoo,In-store,Card,12000,10
+O00171,2025-02-04,,P005,5.0,MLIMANI CITY,Online,Mobile Money,18000,10
+O00030,2025-01-08,C0196,P008,1.0,Mlimani City,In-store,Card,650000,0
+O00163,2025-02-02,C0016,P012,3.0,Kariakoo,Online,Card,12000,15
+O00150,2025-01-31,C0022,P005,2.0,Kariakoo,In-store,Mobile Money,18000,0
+O00387,2025-03-26,C0088,P005,4.0,Kariakoo,In-store,Mobile Money,18000,10
+O00200,10/02/2025,C0028,P005,5.0,Mwanza Rock City,In-store,Mobile Money,18000,5
+O00310,2025-03-09,C0092,P004,1.0,Mlimani City,In-store,Mobile Money,160000,0
+O00095,2025-01-21,C0178,P012,2.0,Kariakoo,In-store,Cash,12000,15
+O00246,2025-02-21,C0151,P003,2.0,Arusha CBD,Online,Mobile Money,85000,0
+O00370,2025-03-22,C0194,P005,5.0,Mlimani City,In-store,Cash,"TSh 18,000",0
+O00222,15/02/2025,C0116,P007,2.0,Mwanza Rock City,Online,Mobile Money,70000,10
+O00086,2025-01-18,C0131,P007,1.0,Kariakoo,In-store,Mobile Money,70000,0
+O00133,2025-01-28,C0086,P007,1.0,MLIMANI CITY,In-store,Mobile Money,70000,0
+O00188,2025-02-08,C0209,P012,,Arusha CBD,In-store,Card,12000,0
+O00230,2025-02-17,C0215,P012,1.0,MWANZA ROCK CITY,Online,Cash,"12,000",10
+O00090,2025-01-19,C0179,P003,1.0,Mlimani City,In-store,Mobile Money,85000,0
+O00012,2025-01-04,C0037,P012,2.0,Kariakoo,In-store,Mobile Money,12000,0
+O00035,2025-01-08,C0202,P005,1.0,Arusha CBD,In-store,Card,18000,0
+O00218,2025-02-15,C0036,P012,5.0,Kariakoo,Online,,12000,15
+O00073,2025-01-15,C0061,P012,1.0,Arusha CBD,In-store,Mobile Money,"TSh 12,000",10
+O00374,2025-03-22,C0259,P006,1.0,Mlimani City,In-store,Cash,"TSh 240,000",10
+O00242,2025-02-20,C0014,P010,1.0,Kariakoo,In-store,Cash,55000,0
+O00245,2025-02-21,C0142,P001,,Mlimani City,In-store,,25000,0
+O00311,2025-03-09,C0242,P009,1.0,Mlimani City,In-store,Card,"65,000",0
+O00140,2025-01-30,C0175,P010,1.0,  Mlimani City ,Online,Card,55000,0
+O00066,2025-01-14,C0167,P001,4.0,Mlimani City,In-store,Mobile Money,25000,0
+O00388,2025-03-26,C0248,P003,1.0,Kariakoo,In-store,Mobile Money,85000,10
+O00112,2025-01-24,C0044,P007,2.0,Arusha CBD,Online,Card,70000,0
+O00359,19/03/2025,C0254,P008,1.0,Mwanza Rock City,In-store,Mobile Money,650000,0
+O00013,2025-01-04,C0298,P003,2.0,Kariakoo,In-store,,85000,10
+O00221,2025-02-15,C0097,P007,1.0,Kariakoo,In-store,Cash,70000,0
+O00088,2025-01-18,C0168,P012,4.0,Arusha CBD,In-store,Mobile Money,12000,0
+O00199,2025-02-10,C0047,P009,2.0,Mlimani City,In-store,Mobile Money,65000,0
+O00214,2025-02-15,C0009,P010,1.0,Mwanza Rock City,In-store,Mobile Money,55000,15
+O00366,2025-03-21,C0184,P008,2.0,Mlimani City,Online,Mobile Money,650000,15
+O00235,2025-02-17,C0209,P012,2.0,Kariakoo,In-store,Card,12000,0
+O00350,2025-03-18,C0104,P012,2.0,Kariakoo,In-store,Mobile Money,12000,0
+O00165,2025-02-03,C0260,P005,5.0,Mlimani City,Online,Mobile Money,18000,0
+O00176,2025-02-05,C0070,P012,3.0,Kariakoo,In-store,Mobile Money,12000,5
+O00329,2025-03-13,C0077,P001,3.0,Arusha CBD,In-store,Mobile Money,25000,0
+O00324,12/03/2025,C0093,P004,1.0,Kariakoo,In-store,Mobile Money,160000,0
+O00097,2025-01-22,C0133,P008,2.0,Mlimani City,Online,Cash,"TSh 650,000",0
+O00206,2025-02-12,C0137,P006,1.0,Mwanza Rock City,Online,Mobile Money,240000,0
+O00260,2025-02-26,C0036,P001,4.0,Kariakoo,Online,Cash,25000,0
+O00042,2025-01-11,C0111,P007,1.0,Arusha CBD,In-store,Card,70000,10
+O00064,2025-01-14,,P002,1.0,Mwanza Rock City,Online,Mobile Money,45000,0
+O00223,2025-02-15,C0161,P001,2.0,Mwanza Rock City,In-store,Mobile Money,"25,000",10
+O00096,2025-01-21,C0168,P003,1.0,Mlimani City,In-store,Mobile Money,85000,0
+O00014,2025-01-04,C0209,P010,1.0,Mlimani City,Online,Mobile Money,"55,000",0
+O00018,2025-01-05,C0228,P012,4.0,Arusha CBD,Online,Card,12000,15
+O00298,2025-03-06,C0224,P011,2.0,Mwanza Rock City,In-store,Mobile Money,130000,10
+O00247,2025-02-22,C0252,P003,1.0,Kariakoo,Online,Card,85000,0
+O00208,2025-02-12,C0079,P005,,MWANZA ROCK CITY,In-store,,18000,10
+O00091,2025-01-20,C0217,P002,1.0,  Mwanza Rock City ,Online,Cash,45000,10
+O00270,2025-02-28,C0115,P002,2.0,Kariakoo,In-store,Cash,45000,0
+O00040,2025-01-09,C0162,P009,1.0,Mwanza Rock City,In-store,Mobile Money,65000,0
+O00087,2025-01-18,C0091,P003,1.0,Mlimani City,Online,Cash,85000,0
+O00182,2025-02-06,C0242,P005,1.0,Arusha CBD,Online,Mobile Money,18000,15
+O00281,03/03/2025,C0289,P011,2.0,Mlimani City,In-store,Mobile Money,130000,0
+O00146,2025-01-30,C0138,P007,2.0,Kariakoo,Online,Mobile Money,70000,0
+O00159,2025-02-01,C0082,P007,1.0,Kariakoo,In-store,Mobile Money,70000,5
+O00339,2025-03-15,C0106,P003,1.0,Kariakoo,Online,Mobile Money,"85,000",0
+O00302,2025-03-08,C0047,P012,2.0,  Kariakoo ,In-store,Mobile Money,12000,10
+O00303,2025-03-08,C0156,P005,5.0,Kariakoo,In-store,Cash,18000,0
+O00288,04/03/2025,C0156,P009,1.0,Mlimani City,In-store,Mobile Money,65000,0
+O00201,2025-02-11,C0033,P008,2.0,Kariakoo,Online,Card,650000,5
+O00072,2025-01-15,C0014,P010,2.0,Mwanza Rock City,In-store,Mobile Money,55000,10
+O00393,2025-03-27,C0121,P005,1.0,Mwanza  Rock  City,In-store,Cash,18000,5
+O00348,2025-03-17,C0179,P001,4.0,Kariakoo,Online,,25000,0
+O00299,2025-03-07,C0143,P003,1.0,Kariakoo,In-store,Cash,85000,10
+O00326,2025-03-13,C0021,P003,2.0,Mlimani City,In-store,Mobile Money,85000,0
+O00386,2025-03-26,C0120,P005,4.0,Kariakoo,In-store,Card,18000,0
+O00321,2025-03-12,C0122,P012,3.0,Kariakoo,In-store,Mobile Money,12000,15
+O00134,2025-01-29,C0166,P001,4.0,Mlimani City,In-store,Card,25000,10
+O00061,2025-01-13,C0272,P001,,Kariakoo,Online,Mobile Money,"25,000",5
+O00395,28/03/2025,C0110,P001,4.0,arusha cbd,In-store,Card,25000,0
+O00398,2025-03-28,C0140,P012,3.0,Kariakoo,In-store,Cash,12000,0
+O00101,2025-01-22,C0249,P002,1.0,Kariakoo,In-store,Cash,45000,5
+O00020,2025-01-05,C0018,P012,1.0,Mlimani City,In-store,Mobile Money,12000,5
+O00384,2025-03-26,C0057,P001,2.0,Mwanza Rock City,In-store,Mobile Money,25000,0
+O00385,2025-03-26,C0250,P003,2.0,Mlimani City,In-store,Cash,85000,0
+O00265,2025-02-27,C0069,P012,4.0,Mwanza Rock City,In-store,Mobile Money,12000,5
+O00277,2025-03-02,C0218,P003,1.0,Arusha CBD,Online,,85000,5
+O00009,2025-01-03,C0051,P003,2.0,Kariakoo,In-store,Cash,85000,0
+O00284,2025-03-04,C0193,P012,1.0,Kariakoo,Online,Card,12000,0
+O00093,2025-01-20,C0065,P001,3.0,Mlimani City,Online,,25000,10
+O00253,24/02/2025,C0179,P002,1.0,Mlimani City,In-store,Mobile Money,45000,5
+O00033,2025-01-08,C0089,P003,1.0,Mlimani City,In-store,,"TSh 85,000",10
+O00136,2025-01-29,C0129,P011,2.0,mwanza rock city,In-store,Cash,130000,5
+O00023,2025-01-06,C0081,P012,,Mwanza Rock City,In-store,Mobile Money,"12,000",15
+O00063,2025-01-13,C0178,P010,1.0,Kariakoo,In-store,Mobile Money,55000,0
+O00400,2025-03-29,C0100,P007,1.0,Kariakoo,In-store,,70000,15
+O00216,2025-02-15,C0038,P005,5.0,Arusha CBD,In-store,Mobile Money,18000,0
+O00343,2025-03-16,C0176,P001,5.0,kariakoo,In-store,Mobile Money,25000,0
+O00352,2025-03-18,C0176,P005,3.0,Arusha CBD,In-store,Mobile Money,18000,0
+O00258,2025-02-25,C0157,P005,2.0,Mlimani City,In-store,Mobile Money,18000,10
+O00053,2025-01-12,C0054,P010,1.0,Kariakoo,Online,Mobile Money,55000,0
+O00344,2025-03-16,C0230,P010,1.0,kariakoo,In-store,Mobile Money,55000,0
+O00174,2025-02-04,C0091,P007,1.0,MWANZA ROCK CITY,In-store,Mobile Money,70000,0
+O00036,2025-01-09,,P010,2.0,Kariakoo,In-store,Mobile Money,55000,0
+O00179,2025-02-06,C0265,P001,5.0,Kariakoo,In-store,Mobile Money,25000,0
+O00168,2025-02-04,C0150,P010,1.0,Kariakoo,In-store,Cash,55000,0
+O00227,2025-02-16,C0110,P005,5.0,Kariakoo,Online,Mobile Money,"TSh 18,000",0
+O00121,2025-01-26,C0058,P009,2.0,Mlimani City,Online,Cash,65000,5
+O00276,2025-03-01,C0084,P009,2.0,Mlimani City,Online,Mobile Money,65000,0
+O00045,2025-01-11,C0114,P005,2.0,Arusha CBD,In-store,Cash,18000,0
+O00301,2025-03-07,C0263,P003,2.0,Mwanza Rock City,In-store,Card,"TSh 85,000",0
+O00077,2025-01-16,C0060,P001,4.0,Arusha CBD,Online,Cash,25000,0
+O00209,2025-02-12,C0006,P005,3.0,Mlimani City,In-store,Mobile Money,18000,10
+O00213,2025-02-13,C0054,P003,1.0,mwanza rock city,In-store,Cash,85000,15
+O00268,28/02/2025,C0233,P012,4.0,KARIAKOO,In-store,Mobile Money,12000,10
+O00312,2025-03-09,C0074,P010,2.0,Arusha CBD,In-store,Mobile Money,55000,0
+O00217,2025-02-15,C0146,P007,2.0,Kariakoo,In-store,Card,70000,0
+O00362,20/03/2025,C0276,P012,3.0,Mwanza Rock City,In-store,,"12,000",10
+O00010,2025-01-04,C0168,P003,1.0,Mlimani City,In-store,Cash,85000,0
+O00397,2025-03-28,C0177,P001,4.0,Mlimani City,In-store,Mobile Money,25000,0
+O00353,2025-03-18,C0161,P012,1.0,Mlimani City,Online,Mobile Money,12000,0
+O00286,2025-03-04,C0140,P001,4.0,  Mwanza Rock City ,In-store,Cash,25000,0
+O00296,2025-03-06,C0069,P005,4.0,Mwanza Rock City,In-store,Cash,18000,0
+O00105,2025-01-23,C0062,P006,2.0,Arusha CBD,In-store,Mobile Money,240000,0
+O00313,2025-03-10,C0019,P004,2.0,Mlimani City,In-store,Mobile Money,160000,5
+O00389,26/03/2025,C0143,P002,2.0,Kariakoo,In-store,Mobile Money,45000,10
+O00288,04/03/2025,C0156,P009,1.0,Mlimani City,In-store,Mobile Money,65000,0
+O00092,2025-01-20,C0138,P001,5.0,Arusha CBD,In-store,Mobile Money,25000,15
+O00183,2025-02-06,C0216,P012,3.0,MLIMANI CITY,In-store,Mobile Money,12000,0
+O00316,2025-03-10,C0256,P012,2.0,  Kariakoo ,Online,Mobile Money,12000,5
+O00378,2025-03-23,C0160,P002,1.0,Arusha CBD,Online,Mobile Money,45000,10
+O00173,2025-02-04,C0204,P003,1.0,Arusha CBD,In-store,Mobile Money,85000,15
+O00233,2025-02-17,C0280,P003,1.0,arusha cbd,In-store,Card,85000,15
+O00037,2025-01-09,C0039,P006,1.0,Kariakoo,Online,Cash,240000,15
+O00157,2025-02-01,C0027,P005,2.0,Kariakoo,In-store,,18000,10
+O00003,2025-01-01,C0181,P001,1.0,Mlimani City,Online,,25000,5
+O00243,2025-02-21,C0010,P005,4.0,Arusha  CBD,In-store,Mobile Money,18000,10
+O00309,2025-03-09,C0196,P001,1.0,Mlimani City,In-store,Mobile Money,25000,0
+O00290,2025-03-04,C0043,P010,2.0,Kariakoo,Online,Mobile Money,55000,0
+O00049,2025-01-11,C0233,P001,3.0,MLIMANI CITY,In-store,Mobile Money,25000,0
+O00142,2025-01-30,C0122,P003,1.0,Kariakoo,In-store,Mobile Money,"85,000",10
+O00224,2025-02-15,C0058,P012,5.0,Mlimani City,In-store,Mobile Money,12000,10
+O00184,2025-02-06,C0067,P005,5.0,kariakoo,In-store,Mobile Money,18000,5
+O00332,2025-03-14,C0003,P003,1.0,Kariakoo,In-store,Cash,85000,0
+O00368,2025-03-21,C0132,P010,2.0,Kariakoo,In-store,Mobile Money,55000,0
+O00161,2025-02-02,C0051,P003,2.0,Kariakoo,In-store,Mobile Money,"TSh 85,000",5
+O00337,2025-03-15,C0224,P012,,Arusha CBD,Online,Mobile Money,12000,10
+O00220,2025-02-15,C0222,P010,2.0,Kariakoo,In-store,Mobile Money,55000,15
+O00100,2025-01-22,C0065,P007,2.0,Arusha CBD,In-store,Cash,70000,0
+O00236,18/02/2025,C0243,P001,4.0,Kariakoo,Online,Mobile Money,25000,5
+O00118,2025-01-26,C0070,P001,4.0,Kariakoo,Online,Cash,"TSh 25,000",15
+O00342,2025-03-16,C0147,P001,3.0,Arusha CBD,In-store,Cash,25000,0
+O00002,2025-01-01,C0120,P012,2.0,Kariakoo,In-store,Card,12000,0
+O00114,2025-01-25,C0291,P010,1.0,Arusha CBD,In-store,Cash,"55,000",0
+O00381,24/03/2025,C0020,P008,2.0,Mwanza Rock City,In-store,Card,650000,0
+O00175,2025-02-05,C0116,P009,2.0,Kariakoo,In-store,Mobile Money,65000,0
+O00254,2025-02-24,C0125,P005,2.0,Mlimani City,In-store,Cash,18000,0
+O00367,21/03/2025,C0261,P003,2.0,Kariakoo,Online,Mobile Money,85000,0
+O00185,2025-02-06,C0240,P001,2.0,Arusha CBD,In-store,,25000,0
+O00166,2025-02-03,C0213,P008,2.0,Mlimani City,Online,Mobile Money,650000,0
+O00275,2025-03-01,C0220,P005,1.0,MWANZA ROCK CITY,In-store,Card,18000,5
+O00193,2025-02-09,C0267,P009,1.0,Kariakoo,Online,Cash,65000,5
+O00001,2025-01-01,C0027,P001,3.0,  Mlimani City ,In-store,Cash,25000,0
+O00055,2025-01-12,C0058,P012,5.0,Arusha CBD,In-store,Mobile Money,12000,0
+O00029,2025-01-07,C0083,P011,1.0,  Mwanza Rock City ,In-store,Cash,"TSh 130,000",0
+O00207,2025-02-12,C0293,P007,1.0,Kariakoo,In-store,Mobile Money,70000,0
+O00050,2025-01-11,C0130,P012,1.0,Arusha CBD,In-store,Cash,12000,15
+O00351,2025-03-18,C0211,P003,2.0,Mlimani City,Online,,85000,0
+O00021,2025-01-05,C0256,P005,4.0,Arusha CBD,In-store,Mobile Money,18000,0
+O00294,2025-03-05,C0265,P003,2.0,Mlimani City,Online,Cash,85000,0
+O00177,2025-02-05,C0143,P009,1.0,Mlimani City,Online,Mobile Money,65000,0
+O00336,2025-03-15,C0141,P012,1.0,kariakoo,In-store,Mobile Money,12000,0
+O00380,23/03/2025,C0190,P010,2.0,  Kariakoo ,Online,Mobile Money,55000,5
+O00034,2025-01-08,C0200,P008,1.0,Arusha  CBD,In-store,Card,650000,0
+O00172,2025-02-04,C0178,P012,5.0,Kariakoo,In-store,Card,12000,15
+O00008,02/01/2025,C0213,P008,2.0,Mwanza Rock City,Online,Cash,"TSh 650,000",10
+O00319,2025-03-11,,P004,1.0,Mwanza Rock City,In-store,Mobile Money,160000,0
+O00057,2025-01-12,C0203,P003,2.0,Arusha CBD,In-store,Mobile Money,"85,000",5
+O00107,2025-01-23,C0173,P007,1.0,Mwanza Rock City,In-store,Mobile Money,70000,0
+O00098,2025-01-22,C0097,P005,4.0,Mlimani City,Online,Cash,18000,0
+O00111,2025-01-24,C0070,P010,1.0,  Mwanza Rock City ,In-store,Mobile Money,55000,0
+O00361,2025-03-19,C0293,P003,1.0,Kariakoo,In-store,Card,85000,10
+O00070,2025-01-15,C0169,P001,4.0,Mlimani City,In-store,Mobile Money,25000,0
+O00347,2025-03-17,C0191,P005,5.0,Kariakoo,In-store,Mobile Money,18000,15
+O00130,2025-01-27,C0048,P012,3.0,Mwanza Rock City,In-store,Mobile Money,12000,10
+O00317,2025-03-10,C0102,P004,2.0,Mlimani City,In-store,Mobile Money,160000,15
+O00259,2025-02-26,C0194,P002,2.0,Kariakoo,In-store,Mobile Money,"45,000",0
+O00323,2025-03-12,C0059,P012,1.0,Kariakoo,Online,Mobile Money,12000,0
+O00151,31/01/2025,C0014,P005,1.0,Kariakoo,Online,Mobile Money,18000,0
+O00338,15/03/2025,C0167,P003,1.0,KARIAKOO,In-store,,85000,0
+O00027,2025-01-07,C0209,P006,1.0,KARIAKOO,In-store,Cash,240000,0
+O00094,2025-01-21,C0029,P012,1.0,Mlimani  City,In-store,Mobile Money,12000,0
+O00149,2025-01-31,C0120,P008,1.0,Mlimani City,In-store,Mobile Money,650000,0
+O00120,2025-01-26,C0009,P002,1.0,Mwanza Rock City,Online,Card,45000,10
+O00139,2025-01-30,C0197,P001,1.0,Arusha CBD,In-store,Card,25000,0
+O00170,2025-02-04,C0191,P012,3.0,Kariakoo,Online,,12000,0
+O00364,2025-03-20,C0004,P003,1.0,Kariakoo,In-store,Cash,85000,0
+O00203,11/02/2025,C0284,P001,2.0,Mlimani City,Online,Mobile Money,25000,0
+O00148,2025-01-31,C0116,P012,3.0,Mwanza Rock City,In-store,Cash,12000,0
+O00278,2025-03-03,C0095,P003,2.0,Kariakoo,In-store,Mobile Money,85000,0
+O00257,2025-02-25,C0018,P010,2.0,Arusha CBD,Online,Mobile Money,55000,0
+O00132,2025-01-28,C0280,P009,2.0,Mlimani City,In-store,,65000,0
+O00250,2025-02-24,C0273,P012,2.0,Arusha CBD,In-store,Cash,12000,10
+O00153,2025-01-31,C0287,P012,4.0,Kariakoo,In-store,Cash,12000,0
+O00363,2025-03-20,C0042,P006,1.0,Arusha CBD,In-store,Cash,240000,0
